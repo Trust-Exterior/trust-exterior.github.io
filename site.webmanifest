@@ -1,0 +1,20 @@
+{
+  "name": "Trust Pressure Washing",
+  "short_name": "Trust PW",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF1F2",
+  "theme_color": "#16232E",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
